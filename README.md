@@ -1,2 +1,18 @@
-# pca-climate-sicily-2025
-PCA analysis of climate variables in Sicily for Hack4Future 2025, visualizing the first and second principal components to explore regional climate patterns.
+# PCA Analysis of Climate Variables in Sicily - Hack4Future 2025
+
+This repository contains an interactive HTML report of a Principal Component Analysis (PCA) on climate variables in Sicily. The analysis focuses on identifying key patterns in the data using the first and second principal components.
+
+## Objective
+The goal of this project is to explore and visualize the main climate variability across Sicily, providing insights for sustainable planning and water resource management.
+
+## Features
+- PCA of multiple climate variables (temperature, precipitation, etc.)
+- Interactive HTML visualization of the first and second principal components
+- Clear interpretation of climate patterns in Sicily
+
+## Usage
+Open the `pca_analysis_sicily.html` file in any web browser to explore the interactive PCA results.
+
+## Hackathon
+This project was developed for **Hack4Future Sicily 2025**.
+
